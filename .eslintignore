@@ -1,0 +1,16 @@
+src/types/takeshape.ts
+src/types/storefront.ts
+tsconfig.json
+package-lock.json
+public
+LICENSE
+.next
+playwright-report
+storybook-static
+countries.json
+!.takeshape
+!.storybook
+!.lighthouse
+!.vitest
+worker
+mocks
